@@ -1,3 +1,9 @@
 #!/bin/bash
-
-echo 'GO NOLESS!'
+if [ -z "$1" ]; then
+    echo -e ">>--;;--------->"
+    echo -e "   GO NOLESS!"
+    echo -e ">>--;;--------->"
+else
+    echo "Parameter!\n"
+    #TODO decide what the flags should be..
+fi
