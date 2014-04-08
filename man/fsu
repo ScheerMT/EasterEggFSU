@@ -1,0 +1,17 @@
+.\" Manpage for FSU
+.\" Contact person@FSUsysAdmin.com to correct errors or typos.
+.TH fsu 8 "04 April 2014" "0.1" "FSU man page"
+.SH NAME
+FSU \- Displays the seminole head
+.SH SYNOPSIS
+fsu [hmm]
+.SH DESCRIPTION
+fsu is a school etc etc...
+.SH OPTIONS
+The fsu command does not take any options. However, you can supply a name to display.
+.SH SEE ALSO
+gonoles, 
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Michael Scheer (email)
